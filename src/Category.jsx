@@ -32,6 +32,7 @@ function Category() {
         ))}
      
     </div>
+    <div>jkhgkjhjk</div>
 
    </section>
     </div>
